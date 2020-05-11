@@ -1,0 +1,2 @@
+rootProject.name='Appruve Challenge'
+include ':app'
